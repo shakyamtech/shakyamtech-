@@ -6,13 +6,33 @@
 
 ### 🛠 प्रविधि र उपकरणहरू (Tech Stack)
 
-* **Frontend:** JavaScript, TypeScript, React, Vite, HTML5, CSS3, Tailwind CSS
-* **Backend & Database:** Node.js, Express, MongoDB, MySQL, PostgreSQL
-* **State Management:** TanStack Query (React Query)
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="TypeScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Vite" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="Tailwind" />
+  <br />
+  <!-- Backend & Database -->
+  <img src="https://shields.io" alt="Node" />
+  <img src="https://shields.io" alt="Express" />
+  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="PostgreSQL" />
+</p>
 
 ---
 
 ### 📬 मलाई सम्पर्क गर्नुहोस् (Connect with Me)
 
-* **Email:** shakya.mahes@gmail.com
-* **Website:** [shakya-portal.pages.dev](https://pages.dev)
+<p align="left">
+  <a href="mailto:shakya.mahes@gmail.com">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://pages.dev" target="_blank">
+    <img src="https://shields.io" alt="Website" />
+  </a>
+</p>
